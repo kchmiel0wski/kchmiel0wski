@@ -6,10 +6,12 @@
 
 **C++**: object-oriented programming (classes, inheritance, interfaces), pointers and dynamic memory, linked lists, file I/O
 **Python**: in progress
+
 **Git and GitHub**
 ## Projects
 
 [system-listy-obecnosci-cpp](https://github.com/290105/Paradygmaty-programowania-obiektowego): console attendance list in C++ that grew from a simple struct-based program into a class hierarchy with interfaces
+
 [cpp-podstawy](https://github.com/kchmiel0wski/cpp-podstawy): first-year C++ exercises organised by topic, from conditions and loops to pointers and file handling
 ## Contact
 
