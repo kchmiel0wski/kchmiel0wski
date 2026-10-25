@@ -5,6 +5,7 @@
 ## What I work with
 
 **C++**: object-oriented programming (classes, inheritance, interfaces), pointers and dynamic memory, linked lists, file I/O
+
 **Python**: in progress
 
 **Git and GitHub**
